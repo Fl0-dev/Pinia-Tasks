@@ -22,6 +22,12 @@ npm install
 npm run dev
 ```
 
+### Access to database : db.json
+
+```sh
+json-server -w ./test_data/db.json
+```
+
 ### Compile and Minify for Production
 
 ```sh
